@@ -236,7 +236,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
                   <string role="key" value="_storageName"></string>
                   <string value="woman-1852907_640.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpHMUZKs/woman-1852907_640.jpg"></string>
+                  <string value="/tmp/tmpgruTZf/woman-1852907_640.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="5230b26e96bed9d4b0a1e4782c807e75"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -523,7 +523,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
                            <string role="key" value="_storageName"></string>
                            <string value="beach_sea_coast_sand_plastic_environment_758917_pxhere_com.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpHMUZKs/beach_sea_coast_sand_plastic_environment_758917_pxhere_com.jpg"></string>
+                           <string value="/tmp/tmpgruTZf/beach_sea_coast_sand_plastic_environment_758917_pxhere_com.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="653c38741061abccba7d4b78fd849644"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -668,7 +668,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68583"></int>
+                                    <int value="68582"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -693,7 +693,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
                                     <string role="key" value="_storageName"></string>
                                     <string value="pollution-4110882_640.jpg"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/pollution-4110882_640.jpg"></string>
+                                    <string value="/tmp/tmpgruTZf/pollution-4110882_640.jpg"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="99b1dbcddf202c0db7c00596343e3a9e"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -997,7 +997,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
 &lt;/ul&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Procedimiento:&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Vamos colocando en el circuito las cucharas una a una, y comprobamos si conducen o no la electricidad (se enciende o no la bombilla).&lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;4. Conclusiones&lt;/h2&gt;
+&lt;h2&gt;5. Conclusiones&lt;/h2&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Una vez terminada la ronda por las cuatro estaciones, podemos proceder a contestar las siguientes preguntas. Para ello, hay que reflexionar sobre los resultados que hemos obtenido en las distintas estaciones y extraer nuestras propias conclusiones.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ol style=&quot;list-style-type: lower-alpha;&quot;&gt;
 &lt;li style=&quot;font-weight: 400;&quot; aria-level=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Haz un breve resumen explicando cómo son las propiedades de los plásticos que has estudiado en la práctica (densidad, resistencia mecánica, transparencia, conductividad térmica y conductividad eléctrica), e indica si esas propiedades son generales o específicas.  &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;/span&gt;&lt;/li&gt;
@@ -1051,7 +1051,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
                                     <string role="key" value="_storageName"></string>
                                     <string value="plasticos.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/plasticos.png"></string>
+                                    <string value="/tmp/tmpgruTZf/plasticos.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="163b48a42cc930fe5c3e3d6d41118e56"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1213,7 +1213,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68589"></int>
+                                    <int value="68588"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -1238,7 +1238,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
                                     <string role="key" value="_storageName"></string>
                                     <string value="escala_trabajo_laboratorio.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/escala_trabajo_laboratorio.png"></string>
+                                    <string value="/tmp/tmpgruTZf/escala_trabajo_laboratorio.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="bacd9adec84653c5390c9ebf6ff97526"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1485,7 +1485,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="68584"></int>
+                           <int value="68583"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1510,7 +1510,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
                            <string role="key" value="_storageName"></string>
                            <string value="water_steam_pot_dish_food_cooking_1069406_pxhere_com.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpHMUZKs/water_steam_pot_dish_food_cooking_1069406_pxhere_com.jpg"></string>
+                           <string value="/tmp/tmpgruTZf/water_steam_pot_dish_food_cooking_1069406_pxhere_com.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="1b3b69da095ebdb67bed043e6b35ab10"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1691,7 +1691,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
                                     <string role="key" value="_storageName"></string>
                                     <string value="teoriacinetica.PNG"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/teoriacinetica.PNG"></string>
+                                    <string value="/tmp/tmpgruTZf/teoriacinetica.PNG"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="1bf33ce8b404b2a57e6a13166a0d931c"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2126,7 +2126,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68581"></int>
+                                    <int value="68580"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -2151,7 +2151,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="phet_materia2.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/phet_materia2.png"></string>
+                                    <string value="/tmp/tmpgruTZf/phet_materia2.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="2158a5600e4d7b6c25e6015448f4d795"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2318,7 +2318,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68578"></int>
+                                    <int value="68577"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -2343,7 +2343,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="Escala_simulaciones.pdf"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/Escala_simulaciones.pdf"></string>
+                                    <string value="/tmp/tmpgruTZf/Escala_simulaciones.pdf"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="921490c0c1168979cd4fbff78aa1f7da"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2370,7 +2370,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68588"></int>
+                                    <int value="68587"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -2395,7 +2395,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="Escala_simulaciones.odt"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/Escala_simulaciones.odt"></string>
+                                    <string value="/tmp/tmpgruTZf/Escala_simulaciones.odt"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="039cd27ed09092362f5b3f684b781a46"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2422,7 +2422,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68592"></int>
+                                    <int value="68591"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -2447,7 +2447,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="escala_simulaciones_digitales.png.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/escala_simulaciones_digitales.png.png"></string>
+                                    <string value="/tmp/tmpgruTZf/escala_simulaciones_digitales.png.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="8ef06ac4b312ca72dca83e4fd558c526"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2673,14 +2673,8 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;figure class=&quot;exe-figure exe-image position-center license-CC0&quot; style=&quot;width: 560px;&quot;&gt;&lt;img src=&quot;resources/table_liquid_wood_retro_purple_glass_598652_pxhere_com.jpg&quot; alt=&quot;Veneno&quot; title=&quot;Veneno&quot; width=&quot;560&quot; height=&quot;315&quot; /&gt;
-&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://pxhere.com/&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt;pxhere.com&lt;/a&gt;. &lt;a href=&quot;https://pxhere.com/es/photo/598652&quot; target=&quot;_blank&quot; class=&quot;title&quot; rel=&quot;noopener&quot;&gt;&lt;em&gt;Veneno&lt;/em&gt;&lt;/a&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/deed.es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons (CC0)&quot;&gt;CC0&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;En este apartado del recurso vamos a ver:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Las terribles sustancias químicas.&lt;/strong&gt; En muchas ocasiones se utiliza la frase “esto tiene química” para referirse a algo “no natural”. ¿Todo lo natural es bueno?, lo “verde”, ¿no es química también? Una lectura divulgativa nos servirá de base para hacer una tertulia científica sobre el tema.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;exe-node:Las%20propiedades%20de%20la%20materia:Lecturas%20asombrosas:Antimateria%20para%20%22dummies%22#auto_top&quot;&gt;&lt;strong&gt;Antimateria para dummies. &lt;/strong&gt;&lt;/a&gt;La palabra “antimateria” es usada en muchos libros, cómics y películas de ciencia ficción. Pero, ¿existe la “antimateria”?, ¿qué nos dice la ciencia sobre esto? Lo descubriremos leyendo y resolviendo dilemas.&lt;/li&gt;
-&lt;/ol&gt;&lt;/div&gt;"></unicode>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;En este apartado del recurso vamos a ver:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;exe-node:Las%20propiedades%20de%20la%20materia:Lecturas%20asombrosas:Antimateria%20para%20%22dummies%22#auto_top&quot;&gt;&lt;strong&gt;Antimateria para dummies. &lt;/strong&gt;&lt;/a&gt;La palabra “antimateria” es usada en muchos libros, cómics y películas de ciencia ficción. Pero, ¿existe la “antimateria”?, ¿qué nos dice la ciencia sobre esto? Lo descubriremos leyendo y resolviendo dilemas.&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2693,60 +2687,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                     <instance class="exe.engine.galleryidevice.GalleryImages">
                      <dictionary>
                       <string role="key" value=".listitems"></string>
-                      <list>
-                       <instance class="exe.engine.galleryidevice.GalleryImage">
-                        <dictionary>
-                         <string role="key" value="_caption"></string>
-                         <instance class="exe.engine.field.TextField">
-                          <dictionary>
-                           <string role="key" value="_id"></string>
-                           <int value="68575"></int>
-                           <string role="key" value="_idevice"></string>
-                           <none></none>
-                           <string role="key" value="_instruc"></string>
-                           <string value=""></string>
-                           <string role="key" value="_name"></string>
-                           <string value=""></string>
-                           <string role="key" value="content"></string>
-                           <string value=""></string>
-                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                           <int value="4"></int>
-                          </dictionary>
-                         </instance>
-                         <string role="key" value="_id"></string>
-                         <unicode value="96_148_2.7"></unicode>
-                         <string role="key" value="_imageResource"></string>
-                         <instance class="exe.engine.resource.Resource" reference="59">
-                          <dictionary>
-                           <string role="key" value="_idevice"></string>
-                           <reference key="40"></reference>
-                           <string role="key" value="_package"></string>
-                           <reference key="2"></reference>
-                           <string role="key" value="_storageName"></string>
-                           <string value="table_liquid_wood_retro_purple_glass_598652_pxhere_com.jpg"></string>
-                           <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpHMUZKs/table_liquid_wood_retro_purple_glass_598652_pxhere_com.jpg"></string>
-                           <string role="key" value="checksum"></string>
-                           <string value="3f6be8bab338cf07a765873a214eae83"></string>
-                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                           <int value="2"></int>
-                           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                           <int value="2"></int>
-                           <string role="key" value="warningMsg"></string>
-                           <string value=""></string>
-                          </dictionary>
-                         </instance>
-                         <string role="key" value="_parent"></string>
-                         <reference key="41"></reference>
-                         <string role="key" value="_thumbnailResource"></string>
-                         <none></none>
-                         <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                         <int value="3"></int>
-                         <string role="key" value="makeThumbnail"></string>
-                         <bool value="0"></bool>
-                        </dictionary>
-                       </instance>
-                      </list>
+                      <list></list>
                       <string role="key" value="idevice"></string>
                       <reference key="41"></reference>
                      </dictionary>
@@ -3077,7 +3018,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="Dilema.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/Dilema.png"></string>
+                                    <string value="/tmp/tmpgruTZf/Dilema.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="0db5492287bfc225ea7b90a27896f505"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3104,7 +3045,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68576"></int>
+                                    <int value="68575"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -3129,7 +3070,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="C__Users_or015633adm_Desktop_astronave_antimateria.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/C__Users_or015633adm_Desktop_astronave_antimateria.png"></string>
+                                    <string value="/tmp/tmpgruTZf/C__Users_or015633adm_Desktop_astronave_antimateria.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="73dea7e6babc4a655d6c43155098229e"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3156,7 +3097,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68582"></int>
+                                    <int value="68581"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -3181,7 +3122,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="concept_cartoons1.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/concept_cartoons1.png"></string>
+                                    <string value="/tmp/tmpgruTZf/concept_cartoons1.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="4539a405cba0cc1302c4af08b818aeed"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3208,7 +3149,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68585"></int>
+                                    <int value="68584"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -3233,7 +3174,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="C__Users_or015633adm_Desktop_800px-ATLAS.jpg"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/C__Users_or015633adm_Desktop_800px-ATLAS.jpg"></string>
+                                    <string value="/tmp/tmpgruTZf/C__Users_or015633adm_Desktop_800px-ATLAS.jpg"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="a86a3fcc1f424fea32d17a19f59b22dc"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3260,7 +3201,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68590"></int>
+                                    <int value="68589"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -3285,7 +3226,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="C__Users_or015633adm_Desktop_800px-AMS02onISS_(1).jpg"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/C__Users_or015633adm_Desktop_800px-AMS02onISS_(1).jpg"></string>
+                                    <string value="/tmp/tmpgruTZf/C__Users_or015633adm_Desktop_800px-AMS02onISS_(1).jpg"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="392c3d90aa8bd72f54dc3b9f153a5713"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3312,7 +3253,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68593"></int>
+                                    <int value="68592"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -3337,7 +3278,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="concept_cartoons2.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/concept_cartoons2.png"></string>
+                                    <string value="/tmp/tmpgruTZf/concept_cartoons2.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="163b57ede04fbbb61a74c32f80658b5c"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3508,7 +3449,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68579"></int>
+                                    <int value="68578"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -3533,7 +3474,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="Escala_dilemas_ciencias.pdf"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/Escala_dilemas_ciencias.pdf"></string>
+                                    <string value="/tmp/tmpgruTZf/Escala_dilemas_ciencias.pdf"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="81f136386755a52a7182dbd6f3e510ed"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3560,7 +3501,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68586"></int>
+                                    <int value="68585"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -3585,7 +3526,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="escala_dilemas.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/escala_dilemas.png"></string>
+                                    <string value="/tmp/tmpgruTZf/escala_dilemas.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="5183f7635f1d0db8e47bf92900bfd67b"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3612,7 +3553,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68591"></int>
+                                    <int value="68590"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -3637,7 +3578,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                     <string role="key" value="_storageName"></string>
                                     <string value="Escala_dilemas_ciencias.odt"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/Escala_dilemas_ciencias.odt"></string>
+                                    <string value="/tmp/tmpgruTZf/Escala_dilemas_ciencias.odt"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="abce4339c9ec1e9f8bef8339dda685fa"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3725,7 +3666,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                      </instance>
                     </dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="8"></int>
+                    <int value="7"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="58"></reference>
                    </dictionary>
@@ -3750,9 +3691,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                  <string role="key" value="undo"></string>
                  <bool value="1"></bool>
                  <string role="key" value="userResources"></string>
-                 <list>
-                  <reference key="59"></reference>
-                 </list>
+                 <list></list>
                  <string role="key" value="version"></string>
                  <int value="0"></int>
                 </dictionary>
@@ -3783,13 +3722,13 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
              </dictionary>
             </instance>
             <unicode role="key" value="exe-node:Las%20propiedades%20de%20la%20materia:Propiedades%20de%20la%20materia#auto_top"></unicode>
-            <instance class="exe.engine.node.Node" reference="75">
+            <instance class="exe.engine.node.Node" reference="74">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Propiedades de la materia"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="60">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="59">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value=""></unicode>
@@ -3848,12 +3787,12 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="61">
+                  <instance class="exe.engine.field.TextAreaField" reference="60">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="146_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="60"></reference>
+                    <reference key="59"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -3887,7 +3826,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="68587"></int>
+                           <int value="68586"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3903,16 +3842,16 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                          <string role="key" value="_id"></string>
                          <unicode value="94_146_2.7"></unicode>
                          <string role="key" value="_imageResource"></string>
-                         <instance class="exe.engine.resource.Resource" reference="76">
+                         <instance class="exe.engine.resource.Resource" reference="75">
                           <dictionary>
                            <string role="key" value="_idevice"></string>
-                           <reference key="60"></reference>
+                           <reference key="59"></reference>
                            <string role="key" value="_package"></string>
                            <reference key="2"></reference>
                            <string role="key" value="_storageName"></string>
                            <string value="background_beverage_black_and_white_black_background_bubble_caffeine_1457961_pxhere_com.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpHMUZKs/background_beverage_black_and_white_black_background_bubble_caffeine_1457961_pxhere_com.jpg"></string>
+                           <string value="/tmp/tmpgruTZf/background_beverage_black_and_white_black_background_bubble_caffeine_1457961_pxhere_com.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="322ed5b7b7420adf5aee674891d6b7f2"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3924,7 +3863,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                           </dictionary>
                          </instance>
                          <string role="key" value="_parent"></string>
-                         <reference key="61"></reference>
+                         <reference key="60"></reference>
                          <string role="key" value="_thumbnailResource"></string>
                          <none></none>
                          <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3935,19 +3874,19 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                        </instance>
                       </list>
                       <string role="key" value="idevice"></string>
-                      <reference key="61"></reference>
+                      <reference key="60"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary>
                      <unicode role="key" value="exe-node:Las%20propiedades%20de%20la%20materia:Propiedades%20de%20la%20materia:%C2%BFFlota%20o%20se%20hunde%3F#auto_top"></unicode>
-                     <instance class="exe.engine.node.Node" reference="64">
+                     <instance class="exe.engine.node.Node" reference="63">
                       <dictionary>
                        <string role="key" value="_title"></string>
                        <unicode value="¿Flota o se hunde?"></unicode>
                        <string role="key" value="idevices"></string>
                        <list>
-                        <instance class="exe.engine.jsidevice.JsIdevice" reference="62">
+                        <instance class="exe.engine.jsidevice.JsIdevice" reference="61">
                          <dictionary>
                           <string role="key" value="_title"></string>
                           <unicode value="Laboratorio de densidades"></unicode>
@@ -4016,12 +3955,12 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                           <int value="1"></int>
                           <string role="key" value="fields"></string>
                           <list>
-                           <instance class="exe.engine.field.TextAreaField" reference="63">
+                           <instance class="exe.engine.field.TextAreaField" reference="62">
                             <dictionary>
                              <string role="key" value="_id"></string>
                              <unicode value="48_2"></unicode>
                              <string role="key" value="_idevice"></string>
-                             <reference key="62"></reference>
+                             <reference key="61"></reference>
                              <string role="key" value="_instruc"></string>
                              <string value=""></string>
                              <string role="key" value="_name"></string>
@@ -4072,16 +4011,16 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <string role="key" value="_id"></string>
                                   <unicode value="11_48_2.55"></unicode>
                                   <string role="key" value="_imageResource"></string>
-                                  <instance class="exe.engine.resource.Resource" reference="65">
+                                  <instance class="exe.engine.resource.Resource" reference="64">
                                    <dictionary>
                                     <string role="key" value="_idevice"></string>
-                                    <reference key="62"></reference>
+                                    <reference key="61"></reference>
                                     <string role="key" value="_package"></string>
                                     <reference key="2"></reference>
                                     <string role="key" value="_storageName"></string>
                                     <string value="C__Users_or015633adm_Desktop_ferry-boat-123059_960_720.jpg"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/C__Users_or015633adm_Desktop_ferry-boat-123059_960_720.jpg"></string>
+                                    <string value="/tmp/tmpgruTZf/C__Users_or015633adm_Desktop_ferry-boat-123059_960_720.jpg"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="c2f0646daa1b4b26e47dde93d8da16f9"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4093,7 +4032,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                    </dictionary>
                                   </instance>
                                   <string role="key" value="_parent"></string>
-                                  <reference key="63"></reference>
+                                  <reference key="62"></reference>
                                   <string role="key" value="_thumbnailResource"></string>
                                   <none></none>
                                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -4104,7 +4043,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                 </instance>
                                </list>
                                <string role="key" value="idevice"></string>
-                               <reference key="63"></reference>
+                               <reference key="62"></reference>
                               </dictionary>
                              </instance>
                              <string role="key" value="intlinks_to_anchors"></string>
@@ -4112,7 +4051,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                              <string role="key" value="nextImageId"></string>
                              <int value="56"></int>
                              <string role="key" value="parentNode"></string>
-                             <reference key="64"></reference>
+                             <reference key="63"></reference>
                             </dictionary>
                            </instance>
                           </list>
@@ -4129,20 +4068,20 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                           <string role="key" value="originalicon"></string>
                           <string value=""></string>
                           <string role="key" value="parentNode"></string>
-                          <reference key="64"></reference>
+                          <reference key="63"></reference>
                           <string role="key" value="systemResources"></string>
                           <list></list>
                           <string role="key" value="undo"></string>
                           <bool value="1"></bool>
                           <string role="key" value="userResources"></string>
                           <list>
-                           <reference key="65"></reference>
+                           <reference key="64"></reference>
                           </list>
                           <string role="key" value="version"></string>
                           <int value="0"></int>
                          </dictionary>
                         </instance>
-                        <instance class="exe.engine.jsidevice.JsIdevice" reference="66">
+                        <instance class="exe.engine.jsidevice.JsIdevice" reference="65">
                          <dictionary>
                           <string role="key" value="_title"></string>
                           <unicode value="Tarea: laboratorio de densidades"></unicode>
@@ -4212,12 +4151,12 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                           <int value="1"></int>
                           <string role="key" value="fields"></string>
                           <list>
-                           <instance class="exe.engine.field.TextAreaField" reference="67">
+                           <instance class="exe.engine.field.TextAreaField" reference="66">
                             <dictionary>
                              <string role="key" value="_id"></string>
                              <unicode value="49_2"></unicode>
                              <string role="key" value="_idevice"></string>
-                             <reference key="66"></reference>
+                             <reference key="65"></reference>
                              <string role="key" value="_instruc"></string>
                              <string value=""></string>
                              <string role="key" value="_name"></string>
@@ -4560,16 +4499,16 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <string role="key" value="_id"></string>
                                   <unicode value="12_49_2.323"></unicode>
                                   <string role="key" value="_imageResource"></string>
-                                  <instance class="exe.engine.resource.Resource" reference="68">
+                                  <instance class="exe.engine.resource.Resource" reference="67">
                                    <dictionary>
                                     <string role="key" value="_idevice"></string>
-                                    <reference key="66"></reference>
+                                    <reference key="65"></reference>
                                     <string role="key" value="_package"></string>
                                     <reference key="2"></reference>
                                     <string role="key" value="_storageName"></string>
                                     <string value="Laboratorio_de_densidad2.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/Laboratorio_de_densidad2.png"></string>
+                                    <string value="/tmp/tmpgruTZf/Laboratorio_de_densidad2.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="cbfa2b57fb389bef0b64dc778d4a0e51"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4581,7 +4520,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                    </dictionary>
                                   </instance>
                                   <string role="key" value="_parent"></string>
-                                  <reference key="67"></reference>
+                                  <reference key="66"></reference>
                                   <string role="key" value="_thumbnailResource"></string>
                                   <none></none>
                                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -4596,7 +4535,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68594"></int>
+                                    <int value="68593"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -4612,16 +4551,16 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <string role="key" value="_id"></string>
                                   <unicode value="12_49_2.324"></unicode>
                                   <string role="key" value="_imageResource"></string>
-                                  <instance class="exe.engine.resource.Resource" reference="69">
+                                  <instance class="exe.engine.resource.Resource" reference="68">
                                    <dictionary>
                                     <string role="key" value="_idevice"></string>
-                                    <reference key="66"></reference>
+                                    <reference key="65"></reference>
                                     <string role="key" value="_package"></string>
                                     <reference key="2"></reference>
                                     <string role="key" value="_storageName"></string>
                                     <string value="Laboratorio_de_densidad1.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/Laboratorio_de_densidad1.png"></string>
+                                    <string value="/tmp/tmpgruTZf/Laboratorio_de_densidad1.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="18330eb971527d6282fd76e285134561"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4633,7 +4572,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                    </dictionary>
                                   </instance>
                                   <string role="key" value="_parent"></string>
-                                  <reference key="67"></reference>
+                                  <reference key="66"></reference>
                                   <string role="key" value="_thumbnailResource"></string>
                                   <none></none>
                                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -4644,7 +4583,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                 </instance>
                                </list>
                                <string role="key" value="idevice"></string>
-                               <reference key="67"></reference>
+                               <reference key="66"></reference>
                               </dictionary>
                              </instance>
                              <string role="key" value="intlinks_to_anchors"></string>
@@ -4652,7 +4591,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                              <string role="key" value="nextImageId"></string>
                              <int value="325"></int>
                              <string role="key" value="parentNode"></string>
-                             <reference key="64"></reference>
+                             <reference key="63"></reference>
                             </dictionary>
                            </instance>
                           </list>
@@ -4669,21 +4608,21 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                           <string role="key" value="originalicon"></string>
                           <unicode value="activity"></unicode>
                           <string role="key" value="parentNode"></string>
-                          <reference key="64"></reference>
+                          <reference key="63"></reference>
                           <string role="key" value="systemResources"></string>
                           <list></list>
                           <string role="key" value="undo"></string>
                           <bool value="1"></bool>
                           <string role="key" value="userResources"></string>
                           <list>
+                           <reference key="67"></reference>
                            <reference key="68"></reference>
-                           <reference key="69"></reference>
                           </list>
                           <string role="key" value="version"></string>
                           <int value="0"></int>
                          </dictionary>
                         </instance>
-                        <instance class="exe.engine.jsidevice.JsIdevice" reference="70">
+                        <instance class="exe.engine.jsidevice.JsIdevice" reference="69">
                          <dictionary>
                           <string role="key" value="_title"></string>
                           <unicode value="Evaluación y reflexión"></unicode>
@@ -4742,12 +4681,12 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                           <int value="1"></int>
                           <string role="key" value="fields"></string>
                           <list>
-                           <instance class="exe.engine.field.TextAreaField" reference="71">
+                           <instance class="exe.engine.field.TextAreaField" reference="70">
                             <dictionary>
                              <string role="key" value="_id"></string>
                              <unicode value="142_2"></unicode>
                              <string role="key" value="_idevice"></string>
-                             <reference key="70"></reference>
+                             <reference key="69"></reference>
                              <string role="key" value="_instruc"></string>
                              <string value=""></string>
                              <string role="key" value="_name"></string>
@@ -4805,16 +4744,16 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <string role="key" value="_id"></string>
                                   <unicode value="76_142_2.81"></unicode>
                                   <string role="key" value="_imageResource"></string>
-                                  <instance class="exe.engine.resource.Resource" reference="72">
+                                  <instance class="exe.engine.resource.Resource" reference="71">
                                    <dictionary>
                                     <string role="key" value="_idevice"></string>
-                                    <reference key="70"></reference>
+                                    <reference key="69"></reference>
                                     <string role="key" value="_package"></string>
                                     <reference key="2"></reference>
                                     <string role="key" value="_storageName"></string>
                                     <string value="escala_simulaciones_digitales.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/escala_simulaciones_digitales.png"></string>
+                                    <string value="/tmp/tmpgruTZf/escala_simulaciones_digitales.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="a6c01824b58659e6edb22eee16907e96"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4826,7 +4765,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                    </dictionary>
                                   </instance>
                                   <string role="key" value="_parent"></string>
-                                  <reference key="71"></reference>
+                                  <reference key="70"></reference>
                                   <string role="key" value="_thumbnailResource"></string>
                                   <none></none>
                                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -4841,7 +4780,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68580"></int>
+                                    <int value="68579"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -4857,16 +4796,16 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <string role="key" value="_id"></string>
                                   <unicode value="76_142_2.82"></unicode>
                                   <string role="key" value="_imageResource"></string>
-                                  <instance class="exe.engine.resource.Resource" reference="73">
+                                  <instance class="exe.engine.resource.Resource" reference="72">
                                    <dictionary>
                                     <string role="key" value="_idevice"></string>
-                                    <reference key="70"></reference>
+                                    <reference key="69"></reference>
                                     <string role="key" value="_package"></string>
                                     <reference key="2"></reference>
                                     <string role="key" value="_storageName"></string>
                                     <string value="Escala_simulaciones_digitales.odt"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/Escala_simulaciones_digitales.odt"></string>
+                                    <string value="/tmp/tmpgruTZf/Escala_simulaciones_digitales.odt"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="fcd40118297307a21e21d89cd134d153"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4878,7 +4817,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                    </dictionary>
                                   </instance>
                                   <string role="key" value="_parent"></string>
-                                  <reference key="71"></reference>
+                                  <reference key="70"></reference>
                                   <string role="key" value="_thumbnailResource"></string>
                                   <none></none>
                                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -4893,7 +4832,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="68595"></int>
+                                    <int value="68594"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -4909,16 +4848,16 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                   <string role="key" value="_id"></string>
                                   <unicode value="76_142_2.83"></unicode>
                                   <string role="key" value="_imageResource"></string>
-                                  <instance class="exe.engine.resource.Resource" reference="74">
+                                  <instance class="exe.engine.resource.Resource" reference="73">
                                    <dictionary>
                                     <string role="key" value="_idevice"></string>
-                                    <reference key="70"></reference>
+                                    <reference key="69"></reference>
                                     <string role="key" value="_package"></string>
                                     <reference key="2"></reference>
                                     <string role="key" value="_storageName"></string>
                                     <string value="Escala_simulaciones_digitales.pdf"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="/tmp/tmpHMUZKs/Escala_simulaciones_digitales.pdf"></string>
+                                    <string value="/tmp/tmpgruTZf/Escala_simulaciones_digitales.pdf"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="fe8946285997e48897886c99c36c0ea4"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4930,7 +4869,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                    </dictionary>
                                   </instance>
                                   <string role="key" value="_parent"></string>
-                                  <reference key="71"></reference>
+                                  <reference key="70"></reference>
                                   <string role="key" value="_thumbnailResource"></string>
                                   <none></none>
                                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -4941,7 +4880,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                                 </instance>
                                </list>
                                <string role="key" value="idevice"></string>
-                               <reference key="71"></reference>
+                               <reference key="70"></reference>
                               </dictionary>
                              </instance>
                              <string role="key" value="intlinks_to_anchors"></string>
@@ -4949,7 +4888,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                              <string role="key" value="nextImageId"></string>
                              <int value="84"></int>
                              <string role="key" value="parentNode"></string>
-                             <reference key="64"></reference>
+                             <reference key="63"></reference>
                             </dictionary>
                            </instance>
                           </list>
@@ -4966,16 +4905,16 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                           <string role="key" value="originalicon"></string>
                           <string value=""></string>
                           <string role="key" value="parentNode"></string>
-                          <reference key="64"></reference>
+                          <reference key="63"></reference>
                           <string role="key" value="systemResources"></string>
                           <list></list>
                           <string role="key" value="undo"></string>
                           <bool value="1"></bool>
                           <string role="key" value="userResources"></string>
                           <list>
+                           <reference key="71"></reference>
                            <reference key="72"></reference>
                            <reference key="73"></reference>
-                           <reference key="74"></reference>
                           </list>
                           <string role="key" value="version"></string>
                           <int value="0"></int>
@@ -4995,10 +4934,10 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                        <string role="key" value="last_full_node_path"></string>
                        <string value="exe-node:Las%20propiedades%20de%20la%20materia:Propiedades%20de%20la%20materia:%C2%BFFlota%20o%20se%20hunde%3F"></string>
                        <string role="key" value="parent"></string>
-                       <reference key="75"></reference>
+                       <reference key="74"></reference>
                        <string role="key" value="top_anchors_linked_from_fields"></string>
                        <list>
-                        <reference key="61"></reference>
+                        <reference key="60"></reference>
                        </list>
                        <string role="key" value="children"></string>
                        <list></list>
@@ -5008,7 +4947,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                     <string role="key" value="nextImageId"></string>
                     <int value="8"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="75"></reference>
+                    <reference key="74"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -5025,14 +4964,14 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="75"></reference>
+                 <reference key="74"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
                  <bool value="1"></bool>
                  <string role="key" value="userResources"></string>
                  <list>
-                  <reference key="76"></reference>
+                  <reference key="75"></reference>
                  </list>
                  <string role="key" value="version"></string>
                  <int value="0"></int>
@@ -5059,7 +4998,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
               </list>
               <string role="key" value="children"></string>
               <list>
-               <reference key="64"></reference>
+               <reference key="63"></reference>
               </list>
              </dictionary>
             </instance>
@@ -5095,7 +5034,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
         <int value="0"></int>
        </dictionary>
       </instance>
-      <instance class="exe.engine.jsidevice.JsIdevice" reference="77">
+      <instance class="exe.engine.jsidevice.JsIdevice" reference="76">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value=""></unicode>
@@ -5154,12 +5093,12 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
         <int value="1"></int>
         <string role="key" value="fields"></string>
         <list>
-         <instance class="exe.engine.field.TextAreaField" reference="78">
+         <instance class="exe.engine.field.TextAreaField" reference="77">
           <dictionary>
            <string role="key" value="_id"></string>
            <unicode value="146_2"></unicode>
            <string role="key" value="_idevice"></string>
-           <reference key="77"></reference>
+           <reference key="76"></reference>
            <string role="key" value="_instruc"></string>
            <string value=""></string>
            <string role="key" value="_name"></string>
@@ -5196,7 +5135,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="68577"></int>
+                  <int value="68576"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -5212,16 +5151,16 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                 <string role="key" value="_id"></string>
                 <unicode value="101_146_2.10"></unicode>
                 <string role="key" value="_imageResource"></string>
-                <instance class="exe.engine.resource.Resource" reference="79">
+                <instance class="exe.engine.resource.Resource" reference="78">
                  <dictionary>
                   <string role="key" value="_idevice"></string>
-                  <reference key="77"></reference>
+                  <reference key="76"></reference>
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
                   <string value="88x31.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpHMUZKs/88x31.png"></string>
+                  <string value="/tmp/tmpgruTZf/88x31.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="41eee3dbcbf992e9688147e94f93a2c1"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5233,7 +5172,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                  </dictionary>
                 </instance>
                 <string role="key" value="_parent"></string>
-                <reference key="78"></reference>
+                <reference key="77"></reference>
                 <string role="key" value="_thumbnailResource"></string>
                 <none></none>
                 <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -5244,7 +5183,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
               </instance>
              </list>
              <string role="key" value="idevice"></string>
-             <reference key="78"></reference>
+             <reference key="77"></reference>
             </dictionary>
            </instance>
            <string role="key" value="intlinks_to_anchors"></string>
@@ -5276,7 +5215,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
         <bool value="1"></bool>
         <string role="key" value="userResources"></string>
         <list>
-         <reference key="79"></reference>
+         <reference key="78"></reference>
         </list>
         <string role="key" value="version"></string>
         <int value="0"></int>
@@ -5301,17 +5240,17 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
      <list></list>
      <string role="key" value="children"></string>
      <list>
-      <reference key="75"></reference>
+      <reference key="74"></reference>
       <reference key="38"></reference>
       <reference key="20"></reference>
       <reference key="58"></reference>
-      <instance class="exe.engine.node.Node" reference="82">
+      <instance class="exe.engine.node.Node" reference="81">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="- Créditos y descarga -"></unicode>
+        <unicode value="Créditos y descarga"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="80">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="79">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -5372,12 +5311,12 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="81">
+            <instance class="exe.engine.field.TextAreaField" reference="80">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="650_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="80"></reference>
+              <reference key="79"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -5426,7 +5365,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="81"></reference>
+                <reference key="80"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -5434,7 +5373,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="82"></reference>
+              <reference key="81"></reference>
              </dictionary>
             </instance>
            </list>
@@ -5451,7 +5390,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="82"></reference>
+           <reference key="81"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -5462,7 +5401,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="83">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="82">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Información sobre licencia y uso"></unicode>
@@ -5523,12 +5462,12 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="84">
+            <instance class="exe.engine.field.TextAreaField" reference="83">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="651_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="83"></reference>
+              <reference key="82"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -5556,7 +5495,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="84"></reference>
+                <reference key="83"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -5564,7 +5503,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="82"></reference>
+              <reference key="81"></reference>
              </dictionary>
             </instance>
            </list>
@@ -5581,7 +5520,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="82"></reference>
+           <reference key="81"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -5604,7 +5543,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Las%20propiedades%20de%20la%20materia:-%20Cr%C3%A9ditos%20y%20descarga%20-"></string>
+        <string value="exe-node:Las%20propiedades%20de%20la%20materia:Cr%C3%A9ditos%20y%20descarga"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -5623,9 +5562,9 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
    <unicode role="key" value="23"></unicode>
    <reference key="44"></reference>
    <unicode role="key" value="3"></unicode>
-   <reference key="64"></reference>
+   <reference key="63"></reference>
    <unicode role="key" value="30"></unicode>
-   <reference key="75"></reference>
+   <reference key="74"></reference>
    <unicode role="key" value="32"></unicode>
    <reference key="38"></reference>
    <unicode role="key" value="33"></unicode>
@@ -5633,7 +5572,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
    <unicode role="key" value="34"></unicode>
    <reference key="58"></reference>
    <unicode role="key" value="44"></unicode>
-   <reference key="82"></reference>
+   <reference key="81"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -5643,11 +5582,11 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
   <string value="Base"></string>
   <string role="key" value="anchor_nodes"></string>
   <list>
-   <reference key="75"></reference>
+   <reference key="74"></reference>
    <reference key="38"></reference>
    <reference key="58"></reference>
    <reference key="20"></reference>
-   <reference key="64"></reference>
+   <reference key="63"></reference>
    <reference key="26"></reference>
    <reference key="12"></reference>
    <reference key="44"></reference>
@@ -5655,7 +5594,7 @@ Después, partiendo del estado sólido, vamos aumentando la temperatura y observ
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="44"></reference>
+  <reference key="81"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -7375,7 +7314,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
    </list>
    <string role="key" value="18330eb971527d6282fd76e285134561"></string>
    <list>
-    <reference key="69"></reference>
+    <reference key="68"></reference>
    </list>
    <string role="key" value="1b3b69da095ebdb67bed043e6b35ab10"></string>
    <list>
@@ -7391,19 +7330,15 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
    </list>
    <string role="key" value="322ed5b7b7420adf5aee674891d6b7f2"></string>
    <list>
-    <reference key="76"></reference>
+    <reference key="75"></reference>
    </list>
    <string role="key" value="392c3d90aa8bd72f54dc3b9f153a5713"></string>
    <list>
     <reference key="51"></reference>
    </list>
-   <string role="key" value="3f6be8bab338cf07a765873a214eae83"></string>
-   <list>
-    <reference key="59"></reference>
-   </list>
    <string role="key" value="41eee3dbcbf992e9688147e94f93a2c1"></string>
    <list>
-    <reference key="79"></reference>
+    <reference key="78"></reference>
    </list>
    <string role="key" value="4539a405cba0cc1302c4af08b818aeed"></string>
    <list>
@@ -7443,7 +7378,7 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
    </list>
    <string role="key" value="a6c01824b58659e6edb22eee16907e96"></string>
    <list>
-    <reference key="72"></reference>
+    <reference key="71"></reference>
    </list>
    <string role="key" value="a86a3fcc1f424fea32d17a19f59b22dc"></string>
    <list>
@@ -7459,19 +7394,19 @@ La secuencia didáctica está formada por situaciones de aprendizaje, que se pla
    </list>
    <string role="key" value="c2f0646daa1b4b26e47dde93d8da16f9"></string>
    <list>
-    <reference key="65"></reference>
+    <reference key="64"></reference>
    </list>
    <string role="key" value="cbfa2b57fb389bef0b64dc778d4a0e51"></string>
    <list>
-    <reference key="68"></reference>
+    <reference key="67"></reference>
    </list>
    <string role="key" value="fcd40118297307a21e21d89cd134d153"></string>
    <list>
-    <reference key="73"></reference>
+    <reference key="72"></reference>
    </list>
    <string role="key" value="fe8946285997e48897886c99c36c0ea4"></string>
    <list>
-    <reference key="74"></reference>
+    <reference key="73"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
